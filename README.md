@@ -3,9 +3,12 @@
 # C++ Misc Topics
 
 
-github:
+github: https://github.com/chrisdevsandapps/Cpp-Lang-Tutorials-Miscellaneous1
 
-dir:
+dir: /Users/wow/Documents/cpp/cpp-misc 
+
+
+
 
 ### compiling inteminal:
 
@@ -13,7 +16,11 @@ dir:
 
 g++ helloworld.cpp -o ./binOutput/hello
 
+./binOutput/hello
+
 ```
+
+
 
 ### using makefile
 ```makefile
@@ -24,4 +31,12 @@ code here
 
 
 
+### local project vscode settings
+`.vscode/settings.json
+
+```json
+{
+    "git.enabled": false,
+}
+```
 
